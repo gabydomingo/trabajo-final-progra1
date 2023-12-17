@@ -1,0 +1,51 @@
+Numeracion;Plato;Categoria;Precio
+1;Bife de chorizo a la pimienta con fritas;Comida;9000
+2;Bondiola a la mostaza, miel y cerveza con fritas;Comida;6800
+3;Salmon teriyaki con mix de verdes y tomates;Comida;10,600
+4;Lomito solo;Comida;5500
+5;Lomito, jamon y queso;Comida;5700
+6;Lomito, queso y cebolla;Comida;5900
+7;Lomito, lechuga y tomate;Comida;5900
+8;Lomito, lechuga, tomate, jamon y queso;Comida;6300
+9;Pastas rellenas de ricota con salsa de camarones, curry, verdeo, salsa de ostras y crema;Comida;7200
+10;Pastas rellenas de jamon y queso con salsa rosa;Comida;5500
+11;Pastas rellenas de salmon con salsa de camarones;Comida;7900
+12;Pastas de espinaca con salsa rosa;Comida;5500
+13;Pastas con salsa cuatro quesos;Comida;5000
+14;Guarnicion Papas fritas;Comida;2000
+15;Guarnicion Pure de papas;Comida;2000
+16;Guarnicion Pure de calabaza;Comida;2000
+17;Guarnicion Huevo frito;Comida;1000
+18;Guarnicion Arroz blanco;Comida;2000
+19;Ensalada de tomate y lechuga;Comida;3000
+20;Ensalada de rucula, salmon ahumado, queso port salut;Comida;5200
+21;Ensalada de rucula y parmesano;Comida;4300
+22;Sandwich de Jamon y queso;Comida;2000
+23;Sandwich de Jamon, queso y tomate;Comida;2500
+24;Sandwich de Jamon, queso, tomate y lechuga;Comida;2700
+25;Sandwich de Pollo, rucula, tomate y queso;Comida;3500
+26;Sandwich de Queso, panceta y huevo revuelto;Comida;3500
+27;Sandwich de Milanesa, jamon y queso;Comida;5500
+28;Sandwich de Milanesa, jamon, queso, tomate y lechuga;Comida;6000
+29;Sandwich de Milanesa, queso y panceta;Comida;5700
+30;Hamburguesa sola;Comida;3000
+31;Hamburguesa, jamon y queso;Comida;3500
+32;Hamburguesa, lechuga, tomate, jamon y queso;Comida;4000
+33;Hamburguesa, queso, panceta, cebolla, huevo frito;Comida;4500
+34;Hamburguesa, jamon, queso, huevo frito y papas fritas;Comida;4900
+35;Milanesa de ternera;Comida;4000
+36;Milanesa de ternera Napolitana;Comida;4300
+37;Milanesa Suprema;Comida;4000
+38;Milanesa Suprema napolitana;Comida;4300
+39;Milanesa de soja;Comida;3000
+40;Milanesa de soja/ espinaca;Comida;3300
+41;Coca Cola;Bebida;800
+42;Sprite;Bebida;800
+43;Fanta;Bebida;800
+44;Agua mineral;Bebida;500
+45;Cerveza(Tirada);Bebida;1000
+46;Cerveza(Botella);Bebida;1500
+47;Fernet Branca con Coca Cola;Bebida;3000
+48;Vino Tinto de la casa;Bebida;2000
+49;Vino Tinto(Dada);Bebida;5000
+50;Vino Blanco(Dada);Bebida;5000
